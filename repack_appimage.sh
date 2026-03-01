@@ -169,3 +169,4 @@ download_url "$liteloaderqqnt_url" "$liteloaderqqnt_filename"
 
 patch_appiamge "$appimage_path"
 cp "$new_qq_filename" "$workdir"
+ 
